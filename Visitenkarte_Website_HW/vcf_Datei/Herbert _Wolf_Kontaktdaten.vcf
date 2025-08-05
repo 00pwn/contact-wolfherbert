@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Herbert Wolf
+TEL;TYPE=CELL:+436648173988
+EMAIL:herbert.wolf@pwn.at
+ORG:Herbert Wolf
+ADR:;;Im Felberbrunn 2;Mödling;;A-2340;Österreich
+PHOTO;ENCODING=b;TYPE=PNG:
+END:VCARD
